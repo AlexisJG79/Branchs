@@ -19,4 +19,27 @@ LINE 17
 LINE 18
 LINE 19
 LINE 20
+<<<<<<< HEAD
+=======
+LINE 21
+LINE 22
+LINE 23
+LINE 24
+LINE 25
+LINE 26
+LINE 27
+LINE 28
+LINE 29
+LINE 30
+LINE 31
+LINE 32
+LINE 33
+LINE 34
+LINE 35
+LINE 36
+LINE 37
+LINE 38
+LINE 39
+LINE 40
+>>>>>>> Rama-3
 <-------------------------------------END@Alexis:[Main]--------------------------------->
