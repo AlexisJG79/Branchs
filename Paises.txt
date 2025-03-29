@@ -5,3 +5,4 @@ Inglaterra
 Estados Unidos
 Canada
 Costa Rica
+Uruguay
