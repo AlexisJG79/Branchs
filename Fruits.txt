@@ -3,5 +3,6 @@ Orange
 Pineapple
 Grapes
 Watermelon
-Strawberry
+Straiwberry
 Kiwi
+Cherry
