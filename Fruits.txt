@@ -6,3 +6,4 @@ Watermelon
 Straiwberry
 Kiwi
 Cherry
+Lemon
